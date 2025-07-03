@@ -1,5 +1,5 @@
 # algoritmos-micromouse
-Este projeto faz parte do Trabalho de Conclusão de Curso em Engenharia Eletrônica, de Gabriele Vilas Boas Takano sobre orientação do Prof. Dr. Marcio Rodrigues da Cunha.
+Este projeto faz parte do Trabalho de Conclusão de Curso em Engenharia Eletrônica (UTFPR-CM), de Gabriele Vilas Boas Takano sobre orientação do Prof. Dr. Marcio Rodrigues da Cunha.
 
 Algoritmos implementados para resolução de labirintos no contexto do robô Micromouse:
 - Wall Follower;
