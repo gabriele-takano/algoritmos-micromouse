@@ -6,4 +6,4 @@ Algoritmos implementados para resolução de labirintos no contexto do robô Mic
 - Backtracking;
 - Flood Fill;
 - Dijkstra;
-- Depth First Search (geração de labirintos para o ambiente de simulação).
+- Depth First Search (geração de labirintos para padronizar os ambientes de teste).
